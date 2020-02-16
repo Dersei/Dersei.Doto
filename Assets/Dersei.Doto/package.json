@@ -1,0 +1,15 @@
+{
+    "name": "com.dersei.doto",
+    "version": "0.1.0",
+    "displayName": "Dersei's Extensions",
+    "description": "Package with useful extension methods",
+    "unity": "2018.1",
+    "keywords": [
+        "Extensions",
+        "Dersei"
+        ],
+    "author": {
+      "name": "Dersei",
+      "email": "dersei0248@gmail.com"
+    }
+  }
