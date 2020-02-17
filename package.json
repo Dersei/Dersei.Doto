@@ -1,8 +1,8 @@
 {
     "name": "com.dersei.doto",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "displayName": "Dersei's Extensions",
-    "description": "Package with useful extension methods",
+    "description": "Package with useful extensions",
     "unity": "2018.1",
     "keywords": [
         "Extensions",
