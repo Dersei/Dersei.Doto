@@ -1,9 +1,7 @@
 ﻿// Modifications made by Dominik Andrzejczak
 // Modifications made by Luiz Wendt
 // Released under the MIT Licence as held at https://opensource.org/licenses/MIT
-
-// Must be placed within a folder named "Editor"
-
+#if UNITY_EDITOR
 using System;
 using System.Collections.Generic;
 using UnityEditor;
@@ -211,3 +209,4 @@ namespace Dersei.Doto.Editor
         }
     }
 }
+#endif
